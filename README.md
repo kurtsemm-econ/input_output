@@ -12,7 +12,7 @@ The analysis uses publicly available **Bureau of Labor Statistics input–output
 
 Source:
 Bureau of Labor Statistics. *Input–Output Accounts Data*.
-[https://www.bls.gov/emp/input-output/](https://www.bls.gov/emp/input-output/)
+https://www.bls.gov/emp/data/input-output-matrix.htm
 
 The analysis covers the period **1997–2024**.
 
