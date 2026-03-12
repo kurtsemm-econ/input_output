@@ -1,9 +1,3 @@
-For a research repository like yours, the README should do three things clearly and quickly: explain the **research question**, describe the **data and method**, and tell someone how to **reproduce the results**. Think of it as a short companion to the paper rather than a technical manual.
-
-Below is a version that would work well for your input–output project.
-
----
-
 # Structural Importance of Water in U.S. Production Networks
 
 This repository contains the code and analysis used in the paper examining how **representational choices in make–use input–output systems influence estimates of sectoral importance** within production networks. Using water as an empirical case, the project evaluates how commodity-by-commodity and industry-by-industry representations of the U.S. economy produce different estimates of systemic importance.
