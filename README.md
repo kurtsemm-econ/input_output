@@ -58,7 +58,7 @@ Drafts and supporting material for the research paper
 3. Run the main analysis script:
 
 ```
-python water_IO_bls.py
+python or python3 water_io_metrics.py
 ```
 
 The script generates linkage measures, hypothetical extraction results, and influence metrics for each year in the dataset.
