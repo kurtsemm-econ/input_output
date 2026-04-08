@@ -1,11 +1,12 @@
 # Structural Importance of Water in U.S. Production Networks
 
-This repository contains the code and analysis used in the paper examining how **representational choices in make–use input–output systems influence estimates of sectoral importance** within production networks. Using water as an empirical case, the project evaluates how commodity-by-commodity and industry-by-industry representations of the U.S. economy produce different estimates of systemic importance.
+This repository contains code and data processing workflows for analyzing the structural role of water in the U.S. economy using Bureau of Labor Statistics (BLS) input–output tables (1997–2024).
 
-The analysis uses Bureau of Labor Statistics make–use tables to construct alternative technical coefficient systems and evaluate how each representation traces production interdependencies. The empirical strategy combines linkage measures, hypothetical extraction experiments, and coefficient perturbation analysis to measure structural interconnectedness and systemic sensitivity.
+The project compares commodity-by-commodity and industry-by-industry representations derived from the same underlying make–use framework to examine how modeling choices affect estimates of water’s economic importance.
 
-The results show that when production is represented in commodity space rather than industry space, the estimated systemic importance of water increases substantially. Removing water from the commodity-based system produces significantly larger reductions in total output than in the industry-based system. These findings suggest that the measurement of foundational inputs in production networks depends critically on representational assumptions embedded in input–output models.
+Using Leontief-based methods, including hypothetical extraction and linkage analysis, the results show that water’s systemic impact varies substantially depending on how the production structure is specified.
 
+The repository includes scripts for constructing input–output matrices, running extraction experiments, and generating figures used in ongoing research on water, production systems, and environmental constraints.
 ## Data
 
 The analysis uses publicly available **Bureau of Labor Statistics input–output tables**, specifically the annual make–use tables for the U.S. economy.
